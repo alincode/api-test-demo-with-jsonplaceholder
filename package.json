@@ -1,0 +1,16 @@
+{
+  "name": "new-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "alincode <alincode@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "supertest": "^3.0.0"
+  }
+}
